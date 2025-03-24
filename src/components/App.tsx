@@ -6,6 +6,7 @@ import Projects from "./projects";
 import Contact from "./contact";
 import "bootstrap/dist/css/bootstrap.min.css";
 
+
 const App: React.FC = () => {
   return (
     <div className="d-flex flex-column min-vh-100">
@@ -31,3 +32,4 @@ const App: React.FC = () => {
 };
 
 export default App;
+
